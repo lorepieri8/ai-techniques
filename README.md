@@ -1,6 +1,6 @@
 
-<center> <b> AI Tools for the Modern Problem Solver
-</b>  </center>
+<p align="center"> <b> AI Tools for the Modern Problem Solver
+</b> 
 
 
 <p align="center">
