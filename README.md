@@ -55,7 +55,7 @@ The goal is to let you know that these tools exist, giving a basic usage example
 
 *Other*: Top choice for high level concepts such as "cat vs dog" given an image.
 
-
+---
 
 ### Decision Trees (Supervised Learning)
 *Superpower*: Classification and regression with little data preparation.
