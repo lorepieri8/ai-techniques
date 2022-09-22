@@ -39,6 +39,7 @@ Contributions to the list are welcome.
 **Table of Contents**
 
 - [Neural Network Classifier (Supervised Learning, Deep Learning)](#neural-network-classifier-supervised-learning-deep-learning)
+- [Transfer Learning (Deep Learning)](#transfer-learning-deep-learning)
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
 
@@ -57,6 +58,23 @@ Contributions to the list are welcome.
 *Weak Points*: Needs a lot of labelled data to be highly accurate, hard to interpret, hard to quantify prediction confidence, long training time. 
 
 *Other*: Top choice for high level concepts such as "cat vs dog" given an image. 
+
+---
+
+### Transfer Learning (Deep Learning)
+*Superpower*: Train a neural network with little data, by reusing a pre-trained network as a starting point.
+
+*How hard*: Easy.
+
+*Libraries*: Your favorite DL library would do.
+
+*Example*: [Transfer Learning For Computer Vision](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) 
+
+*Weak Points*: May inherit some restrictions from the original model.
+
+*Other*: New predicted classes should be somehow similar to the pre-trained ones for better results. Otherwise just train longer.
+
+
 
 ---
 
