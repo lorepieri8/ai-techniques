@@ -1,5 +1,10 @@
 **AI Tools for the Modern Problem Solver**
 
+
+
+<center><img src="robot.png" width="68"></center>
+
+
 A curated list of AI tools and techniques to solve problems. No background knowledge assumed.
  
 Here AI is an umbrella term for anything that has to do with learning and/or data, including techniques from Statistics, Data Science, Machine Learning, Deep Learning, Reinforcement Learning, Artificial General Intelligence and related fields.
@@ -58,3 +63,4 @@ The goal is to let you know that these tools exist, giving a basic usage example
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+<small><i><a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Freepik - Flaticon</a></i></small>
