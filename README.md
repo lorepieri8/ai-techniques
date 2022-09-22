@@ -43,6 +43,7 @@ Contributions to the list are welcome.
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
+- [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
 
 -------------
 
@@ -50,7 +51,7 @@ Contributions to the list are welcome.
 ### Neural Network Classifier (Supervised Learning, Deep Learning)
 *Superpower*: Classify objects in images, text, video and more.
 
-*How hard*: Medium. Popular defaults are good enough to get far, the bottleneck is getting good data, but debugging is tricky.  
+*How hard*: Medium. Popular defaults are good enough to get far, the bottleneck is getting good data. Debugging is tricky.  
 
 *Libraries*: Pytorch, Detectron2.
 
@@ -122,6 +123,21 @@ Contributions to the list are welcome.
 *Weak Points*: Very slow, lack of control.
 
 *Other*: Can make sense for the initial exploration of problems with no clear angle of attack.
+
+---
+
+### Clustering (Unsupervised Learning)
+*Superpower*: Unsupervised clustering of data into classes.
+
+*How hard*: Easy.
+
+*Libraries*: [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html#n)
+ 
+*Example*: [K-Means clustering on the handwritten digits data](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py) 
+
+*Weak Points*: Not as good as deep learning for complex problems.
+
+*Other*: Many flavours of clustering are available. 
 
 
 
