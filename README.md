@@ -22,13 +22,13 @@ Contributions to the list are welcome.
 
 **Template**
  
-*Superpower*: What it does
+*Superpower*: What it does.
 
 *How hard*: How hard to use it without understanding the theory behind (debugging, parameter selection, etc.)
 
-*Libraries*: Suggested implementations
+*Libraries*: Suggested implementations.
 
-*Example*: Basic tutorial  
+*Example*: Basic tutorial. 
 
 *Weak Points*: When it tends to not work well.
 
@@ -44,6 +44,7 @@ Contributions to the list are welcome.
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
+- [Artificial General Intelligence](#artificial-general-intelligence)
 
 -------------
 
@@ -139,7 +140,20 @@ Contributions to the list are welcome.
 
 *Other*: Many flavours of clustering are available. 
 
+---
 
+### Artificial General Intelligence 
+*Superpower*: Solving pretty much any task, given enough time and resources.
+
+*How hard*: Easy?
+
+*Libraries*: ...
+ 
+*Example*: ...
+
+*Weak Points*: Hard to build one.
+
+*Other*: It may be conscious! 
 
 
 
