@@ -42,6 +42,7 @@ Contributions to the list are welcome.
 - [Transfer Learning (Deep Learning)](#transfer-learning-deep-learning)
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
+- [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 
 -------------
 
@@ -105,6 +106,23 @@ Contributions to the list are welcome.
 *Weak Points*: Less explainable than decision trees, not suited for high-dim data (e.g. images). 
 
 *Other*: Less overfit than decision trees, great for tabular data.
+
+---
+
+### AutoML (Supervised or Unsupervised Learning)
+*Superpower*: Automate the algorithm selection, remove human bias.
+
+*How hard*: Easy.
+
+*Libraries*: [auto-sklearn](https://github.com/automl/auto-sklearn)
+ 
+
+*Example*: [Minimal AutoML tutorial](https://automl.github.io/auto-sklearn/master/#example) 
+
+*Weak Points*: Very slow, lack of control.
+
+*Other*: Can make sense for the initial exploration of problems with no clear angle of attack.
+
 
 
 
