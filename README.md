@@ -21,10 +21,15 @@ The goal is to let you know that these tools exist, giving a basic usage example
 **Template**
  
 *Superpower*: What it does
+
 *How hard*: How hard to use it without understanding the theory behind (debugging, parameter selection, etc.)
+
 *Libraries*: Suggested implementations
+
 *Example*: Basic tutorial  
+
 *Weak Points*: When it tends to not work well.
+
 *Other*: Other!
 
 
@@ -39,20 +44,30 @@ The goal is to let you know that these tools exist, giving a basic usage example
 
 ### Neural Network Classifier (Supervised Learning, Deep Learning)
 *Superpower*: Classify objects in images, text, video and more.
+
 *How hard*: Medium. Popular defaults are good enough to get far, the bottleneck is getting good data, but debugging is tricky.  
+
 *Libraries*: Pytorch, Detectron2 
+
 *Example*: [Vision classifier on CIFAR10 dataset](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) 
+
 *Weak Points*: Needs a lot of labelled data to be highly accurate, hard to interpret, hard to quantify prediction confidence.
+
 *Other*: Top choice for high level concepts such as "cat vs dog" given an image.
 
 
 
 ### Decision Trees (Supervised Learning)
 *Superpower*: Classification and regression with little data preparation.
+
 *How hard*: Easy
+
 *Libraries*: Sklearn
+
 *Example*: [Decision Trees with Sklearn](https://scikit-learn.org/stable/modules/tree.html) 
+
 *Weak Points*: Tend to overfit or be unstable, limited learning capabilities. 
+
 *Other*: Great explainability (can be mapped to yes/no questions), great for tabular data.
 
 
