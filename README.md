@@ -2,7 +2,9 @@
 
 
 
-<center><img src="robot.png" width="68"></center>
+<p align="center">
+<img src="robot.png" width="68">
+</p>
 
 
 A curated list of AI tools and techniques to solve problems. No background knowledge assumed.
