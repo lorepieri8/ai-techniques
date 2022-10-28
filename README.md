@@ -40,6 +40,7 @@ Contributions to the list are welcome.
 
 - [Neural Network Classifier (Supervised Learning, Deep Learning)](#neural-network-classifier-supervised-learning-deep-learning)
 - [Neural Network Object Detector (Supervised Learning, Deep Learning)](#neural-network-object-detector-supervised-learning-deep-learning)
+- [Semantic, Instance and Panoptic Segmentation (Supervised Learning, Deep Learning)](#semantic-instance-and-panoptic-segmentation-supervised-learning-deep-learning)
 - [Transfer Learning (Deep Learning)](#transfer-learning-deep-learning)
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
@@ -56,7 +57,7 @@ Contributions to the list are welcome.
 
 *How hard*: Medium. Popular defaults are good enough to get far, the bottleneck is getting good data. Debugging is tricky.  
 
-*Libraries*: Pytorch, Detectron2.
+*Libraries*: Detectron2.
 
 *Example*: [Vision classifier on CIFAR10 dataset](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) 
 
@@ -71,13 +72,28 @@ Contributions to the list are welcome.
 
 *How hard*: Same as Neural Network Classifier.   
 
-*Libraries*: Pytorch, Detectron2, yolov5.
+*Libraries*: Detectron2, yolov5.
 
 *Example*: [Object Detection with Detectron2](https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch/) 
 
 *Weak Points*: Same as Neural Network Classifier.  
 
 *Other*: Production ready tool, working in real time. 
+
+---
+
+### Semantic, Instance and Panoptic Segmentation (Supervised Learning, Deep Learning)
+*Superpower*: Detect instances of objects inside an image, pixel per pixel. Semantic segmentation treats them as aggregates detections, while Instance segmentation singles out individual objects but do not consider every single pixel. Panoptic segmentation combines both. 
+
+*How hard*: Same as Neural Network Classifier.   
+
+*Libraries*: Detectron2.
+
+*Example*: [Instance Segmentation with Detectron2](https://gilberttanner.com/blog/detectron2-train-a-instance-segmentation-model/) 
+
+*Weak Points*: Data labelling is very time consuming.  
+
+*Other*:   
 
 ---
 
