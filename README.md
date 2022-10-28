@@ -39,6 +39,7 @@ Contributions to the list are welcome.
 **Table of Contents**
 
 - [Neural Network Classifier (Supervised Learning, Deep Learning)](#neural-network-classifier-supervised-learning-deep-learning)
+- [Neural Network Object Detector (Supervised Learning, Deep Learning)](#neural-network-object-detector-supervised-learning-deep-learning)
 - [Transfer Learning (Deep Learning)](#transfer-learning-deep-learning)
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
@@ -62,6 +63,21 @@ Contributions to the list are welcome.
 *Weak Points*: Needs a lot of labelled data to be highly accurate, hard to interpret, hard to quantify prediction confidence, long training time. 
 
 *Other*: Top choice to classify high level concepts such as "cat vs dog" given an image. 
+
+---
+
+### Neural Network Object Detector (Supervised Learning, Deep Learning)
+*Superpower*: Detect objects in images and videos, usually returning a bounding box.
+
+*How hard*: Same as Neural Network Classifier.   
+
+*Libraries*: Pytorch, Detectron2, yolov5.
+
+*Example*: [Object Detection with Detectron2](https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch/) 
+
+*Weak Points*: Same as Neural Network Classifier.  
+
+*Other*: Production ready tool, working in real time. 
 
 ---
 
@@ -153,7 +169,7 @@ Contributions to the list are welcome.
 
 *Weak Points*: Slow to train, needs a lot of data. Requires a good simulator of the environment.
 
-*Other*: Applicable to vastly different problems, from [nuclear fusion](https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control) to [pure maths](https://www.nature.com/articles/s41586-022-05172-4). State of the art techniques are usually deep learning based (Deep Reinforcement Learning)
+*Other*: Applicable to vastly different problems, from [nuclear fusion](https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control) to [pure maths](https://www.nature.com/articles/s41586-022-05172-4). State of the art techniques are usually deep learning based (Deep Reinforcement Learning).
 
 ---
 ### Artificial General Intelligence 
