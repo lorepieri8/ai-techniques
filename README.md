@@ -186,6 +186,20 @@ Contributions to the list are welcome.
 *Weak Points*: Slow to train, needs a lot of data. Requires a good simulator of the environment.
 
 *Other*: Applicable to vastly different problems, from [nuclear fusion](https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control) to [pure maths](https://www.nature.com/articles/s41586-022-05172-4). State of the art techniques are usually deep learning based (Deep Reinforcement Learning).
+---
+
+### Genetic Algorithms 
+*Superpower*: Optimize parametrized functions by biologically-inspired mutation, crossover and selection of candidate solutions.
+
+*How hard*: Hard to write an accurate and scalable fitness function.
+
+*Libraries*: [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython).
+ 
+*Example*: [Genetic Optimisation in PyGAD](https://pygad.readthedocs.io/en/latest/#quick-start) 
+
+*Weak Points*: Compute intensive by design, usually needs an approximate fitness function. Do not scales well with complexity.
+
+*Other*: Used for hyperparameter optimization.  
 
 ---
 ### Artificial General Intelligence 
