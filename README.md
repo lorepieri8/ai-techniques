@@ -47,6 +47,7 @@ Contributions to the list are welcome.
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
 - [Ensemble methods](#ensemble-methods)
+- [Data Augmentation](#data-augmentation)
 - [Bayesian Inference and Probabilistic Programming](#bayesian-inference-and-probabilistic-programming)
 - [Distribution Fitting](#distribution-fitting)
 - [Graphs](#graphs)
@@ -196,6 +197,21 @@ Contributions to the list are welcome.
 
 ---
 
+### Data Augmentation  
+*Superpower*: Increase the size of the dataset. 
+
+*How hard*: Easy.
+
+*Libraries*: [Pytorch](https://pytorch.org/vision/stable/transforms.html).
+ 
+*Example*: [Data Augmentation with Pytorch](https://pytorch.org/vision/stable/transforms.html) plus many format specific. For instance [Albumentations](https://github.com/albumentations-team/albumentations) 
+
+*Weak Points*: Not really, it is always suggested to perform some data augmentation.
+
+*Other*: Often the best data augmentation is specific to your problem. Think at how can you generate realistic synthetic data programmatically. 
+
+---
+
 ### Bayesian Inference and Probabilistic Programming 
 *Superpower*: Lean formalism to perform inference given prior knowledge, backed by solid theoretical understanding.
 
@@ -320,6 +336,7 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Multi agents simulations
 - Knowledge Representations
 - Knowledge Distillation
+- Domain adaptation
 
 
 -----------
