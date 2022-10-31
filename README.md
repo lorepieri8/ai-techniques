@@ -47,6 +47,7 @@ Contributions to the list are welcome.
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
 - [Ensemble methods](#ensemble-methods)
+- [Bayesian Inference and Probabilistic Programming](#bayesian-inference-and-probabilistic-programming)
 - [Graphs](#graphs)
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -190,6 +191,21 @@ Contributions to the list are welcome.
 *Weak Points*: Algorithm complexity and interpretability are sacrificed for better accuracy, but the improvements are usually not that large.
 
 *Other*: Used to squeeze few additional accuracy points and win machine learning competition, e.g. on Kaggle. 
+
+---
+
+### Bayesian Inference and Probabilistic Programming 
+*Superpower*: Lean formalism to perform inference given prior knowledge, backed by solid theoretical understanding.
+
+*How hard*: Medium, mainly since you need to get familiar with some statistics jargon.
+
+*Libraries*: [PyMC](https://www.pymc.io/welcome.html), [Pyro](https://github.com/pyro-ppl/pyro)
+ 
+*Example*: [PyMC Basic Tutorial](https://www.pymc.io/projects/examples/en/latest/gallery.html) 
+
+*Weak Points*: As always in statistics, the reliability of the model is dependent on the underlying assumptions made, for instance on the priors.   
+
+*Other*: Popular algorithms include Markov chain Monte Carlo.
 
 ---
 
