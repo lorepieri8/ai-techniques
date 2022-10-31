@@ -54,6 +54,7 @@ Contributions to the list are welcome.
 - [Reinforcement Learning](#reinforcement-learning)
 - [Genetic Algorithms](#genetic-algorithms)
 - [Artificial General Intelligence](#artificial-general-intelligence)
+- [Extra](#extra)
 
 -------------
 
@@ -301,6 +302,24 @@ Contributions to the list are welcome.
 
 
 
+-----------
+
+### Extra
+
+Other relevant tools or techniques include (may be included in the above in the future):
+
+- Kalman Filters
+- Monte Carlo Estimations
+- Neural-Net-Guided Monte Carlo Tree Search
+- Support Vector Machines 
+- Logistic Regression
+- Dimensionality Reduction
+- Generative Models (GANs, VAE, Diffusion)
+- Sim to Real  
+- Time Series analysis 
+- Multi agents simulations
+- Knowledge Representations
+- Knowledge Distillation
 
 
 -----------
