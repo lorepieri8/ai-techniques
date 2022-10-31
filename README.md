@@ -174,6 +174,21 @@ Contributions to the list are welcome.
 
 ---
 
+### Ensemble methods  
+*Superpower*: Combine multiple models to reduce overfitting. 
+
+*How hard*: Easy.
+
+*Libraries*: [sklearn.ensemble](https://scikit-learn.org/stable/modules/ensemble.html)
+ 
+*Example*: [Single estimator versus bagging: bias-variance decomposition](https://scikit-learn.org/stable/auto_examples/ensemble/plot_bias_variance.html#sphx-glr-auto-examples-ensemble-plot-bias-variance-py) 
+
+*Weak Points*: Algorithm complexity and interpretability are sacrificed for better accuracy, but the improvements are usually not that large.
+
+*Other*: Used to squeeze few additional accuracy points and win machine learning competition, e.g. on Kaggle. 
+
+---
+
 ### Reinforcement Learning 
 *Superpower*: Learning how to act optimally in a dynamic environment in order to maximize a reward.
 
