@@ -249,7 +249,7 @@ Contributions to the list are welcome.
 
 *How hard*: Easy.
 
-*Libraries*: [Sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html).
+*Libraries*: [Sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html), [PyOD](https://github.com/yzhao062/pyod).
  
 *Example*: [Comparing anomaly detection algorithms for outlier detection on toy datasets](https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_anomaly_comparison.html#sphx-glr-auto-examples-miscellaneous-plot-anomaly-comparison-py).
 
