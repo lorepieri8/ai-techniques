@@ -55,7 +55,6 @@ Contributions to the list are welcome.
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Genetic Algorithms](#genetic-algorithms)
-- [Artificial General Intelligence](#artificial-general-intelligence)
 - [Extra](#extra)
 
 -------------
@@ -318,19 +317,6 @@ Contributions to the list are welcome.
 
 *Other*: Used for hyperparameter optimization.  
 
----
-### Artificial General Intelligence 
-*Superpower*: Solving pretty much any task, given enough time and resources.
-
-*How hard*: Easy?
-
-*Libraries*: ...
- 
-*Example*: ...
-
-*Weak Points*: Hard to build one.
-
-*Other*: It may be conscious! 
 
 
 
