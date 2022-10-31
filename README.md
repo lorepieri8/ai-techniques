@@ -189,6 +189,21 @@ Contributions to the list are welcome.
 
 ---
 
+### Graphs
+*Superpower*: Map the problem to a graph, to exploit fast and battle-tested algorithms available for graphs.
+
+*How hard*: Easy if not using deep-learning, medium otherwise. 
+
+*Libraries*: [NetworkX](https://networkx.org/), [Pytorch Geometric](https://github.com/pyg-team/pytorch_geometric) 
+ 
+*Example*: [NetworkX Basic Tutorial](https://networkx.org/documentation/latest/tutorial.html) 
+
+*Weak Points*: Modelling the system with a graph may require unrealistic simplifications.
+
+*Other*: Graphs have been widely studied in mathematics and computer science, many optimized algorithms exists. 
+
+---
+
 ### Null-Hypothesis Significance Testing
 *Superpower*: Confirm or reject a hypothesis.
 
