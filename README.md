@@ -46,7 +46,11 @@ Contributions to the list are welcome.
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
+- [Ensemble methods](#ensemble-methods)
+- [Graphs](#graphs)
+- [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Genetic Algorithms](#genetic-algorithms)
 - [Artificial General Intelligence](#artificial-general-intelligence)
 
 -------------
@@ -231,6 +235,8 @@ Contributions to the list are welcome.
 *Weak Points*: Slow to train, needs a lot of data. Requires a good simulator of the environment.
 
 *Other*: Applicable to vastly different problems, from [nuclear fusion](https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control) to [pure maths](https://www.nature.com/articles/s41586-022-05172-4). State of the art techniques are usually deep learning based (Deep Reinforcement Learning).
+
+
 ---
 
 ### Genetic Algorithms 
