@@ -189,6 +189,21 @@ Contributions to the list are welcome.
 
 ---
 
+### Null-Hypothesis Significance Testing
+*Superpower*: Confirm or reject a hypothesis.
+
+*How hard*: Medium, p-values can be confusing and are sometime used maliciously (p-hacking).  
+
+*Libraries*: Not needed.
+ 
+*Example*: [Testing the fairness of coin](https://en.wikipedia.org/wiki/P-value#:~:text=coin%20is%20fair-,Testing%20the%20fairness%20of%20coin,-%5Bedit%20source) 
+
+*Weak Points*: Reporting the whole statistics, or at least multiple estimators, is more accurate than just the p-value.
+
+*Other*: Commonly used in scientific literature. 
+
+---
+
 ### Reinforcement Learning 
 *Superpower*: Learning how to act optimally in a dynamic environment in order to maximize a reward.
 
