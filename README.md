@@ -50,6 +50,7 @@ Contributions to the list are welcome.
 - [Data Augmentation](#data-augmentation)
 - [Bayesian Inference and Probabilistic Programming](#bayesian-inference-and-probabilistic-programming)
 - [Distribution Fitting](#distribution-fitting)
+- [Anomaly Detection](#anomaly-detection)
 - [Graphs](#graphs)
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -239,6 +240,22 @@ Contributions to the list are welcome.
 *Weak Points*: The fitted function has always less information that the data itself.    
 
 *Other*: Popular fitting distribution are linear, Gaussian and Poisson.
+
+
+---
+
+### Anomaly Detection  
+*Superpower*: Detect outlier data-points.   
+
+*How hard*: Easy.
+
+*Libraries*: [Sklearn](https://scikit-learn.org/stable/modules/outlier_detection.html).
+ 
+*Example*: [Comparing anomaly detection algorithms for outlier detection on toy datasets](https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_anomaly_comparison.html#sphx-glr-auto-examples-miscellaneous-plot-anomaly-comparison-py).
+
+*Weak Points*: To avoid false alarms the base dataset needs to be clean, large and comprehensive. The latter is particularly challenging, as many problems suffer from distribution imbalance.
+
+*Other*: The alarm sensitivity is problem specific. How costly is a false alarm for your use case?   
 
 ---
 
