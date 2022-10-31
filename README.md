@@ -48,6 +48,7 @@ Contributions to the list are welcome.
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
 - [Ensemble methods](#ensemble-methods)
 - [Bayesian Inference and Probabilistic Programming](#bayesian-inference-and-probabilistic-programming)
+- [Distribution Fitting](#distribution-fitting)
 - [Graphs](#graphs)
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -206,6 +207,21 @@ Contributions to the list are welcome.
 *Weak Points*: As always in statistics, the reliability of the model is dependent on the underlying assumptions made, for instance on the priors.   
 
 *Other*: Popular algorithms include Markov chain Monte Carlo.
+
+---
+
+### Distribution Fitting
+*Superpower*: Understand if your data is well described by a known distribution.
+
+*How hard*: Medium, some knowledge of probability distributions is needed.
+
+*Libraries*: [Scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html) or wrappers like [FITTER](https://fitter.readthedocs.io/en/latest/index.html)
+ 
+*Example*: [Scipy curve fitting](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html#:~:text=for%20more%20information.-,Examples,-%3E%3E%3E%20import%20matplotlib) 
+
+*Weak Points*: The fitted function has always less information that the data itself.    
+
+*Other*: Popular fitting distribution are linear, Gaussian and Poisson.
 
 ---
 
