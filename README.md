@@ -332,6 +332,7 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Neural-Net-Guided Monte Carlo Tree Search
 - Support Vector Machines 
 - Logistic Regression
+- Gradient Boosting (XGBoost)
 - Dimensionality Reduction
 - Generative Models (GANs, VAE, Diffusion)
 - Sim to Real  
