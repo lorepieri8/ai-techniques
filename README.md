@@ -55,6 +55,7 @@ Contributions to the list are welcome.
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Genetic Algorithms](#genetic-algorithms)
+- [Time Series Forecasting (Classic)](#time-series-forecasting-classic)
 - [Extra](#extra)
 
 -------------
@@ -317,8 +318,20 @@ Contributions to the list are welcome.
 
 *Other*: Used for hyperparameter optimization.  
 
+---
 
+### Time Series Forecasting (Classic)
+*Superpower*: Predict future values of a time-series based on past results.
 
+*How hard*: Easy.
+
+*Libraries*: [SkTime](https://www.sktime.org/en/stable/index.html).
+ 
+*Example*: [Forecasting with sktime](https://www.sktime.org/en/stable/examples/01_forecasting.html#Step-3---Specifying-the-forecasting-algorithm) 
+
+*Weak Points*: Not able to predict over long periods due the simplifications introduced in the model. An alternative to building increasingly complex models is use deep learning based models.
+
+*Other*: Favoured over neural network based models when explainability is important. ARIMA is the most popular class of forecast models.    
 
 
 -----------
@@ -336,7 +349,6 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Dimensionality Reduction
 - Generative Models (GANs, VAE, Diffusion)
 - Sim to Real  
-- Time Series analysis (Classic)
 - LSTMs, RNNs, Transformers
 - Multi agents simulations
 - Knowledge Representations
