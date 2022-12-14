@@ -45,7 +45,7 @@ Contributions to the list are welcome.
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Ensemble methods](#ensemble-methods)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
-- [XGBooost (Supervised Learning)](#xgbooost-supervised-learning)
+- [XGBoost (Supervised Learning)](#xgboost-supervised-learning)
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
 - [Data Augmentation](#data-augmentation)
@@ -169,7 +169,7 @@ Contributions to the list are welcome.
 
 ---
 
-### XGBooost (Supervised Learning)
+### XGBoost (Supervised Learning)
 *Superpower*: Classification and regression with little data preparation for tabular data. 
 
 *How hard*: Easy.
