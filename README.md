@@ -45,7 +45,7 @@ Contributions to the list are welcome.
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
 - [Ensemble methods](#ensemble-methods)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
-- [XGBooost](#xgbooost)
+- [XGBooost (Supervised Learning)](#xgbooost-supervised-learning)
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
 - [Data Augmentation](#data-augmentation)
@@ -169,7 +169,7 @@ Contributions to the list are welcome.
 
 ---
 
-### XGBooost 
+### XGBooost (Supervised Learning)
 *Superpower*: Classification and regression with little data preparation for tabular data. 
 
 *How hard*: Easy.
@@ -180,7 +180,7 @@ Contributions to the list are welcome.
 
 *Weak Points*: Less explainable than decision trees, not suited for high-dim data (e.g. images). 
 
-*Other*: Less overfitting than decision trees, more scalable. Consistently at the top of machine learning competitions.
+*Other*: Less overfitting than decision trees, more scalable. Alternative ensembling strategy to random forests. Consistently at the top of machine learning competitions.
 
 
 ---
@@ -363,7 +363,6 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Neural-Net-Guided Monte Carlo Tree Search
 - Support Vector Machines 
 - Logistic Regression
-- Gradient Boosting (XGBoost)
 - Dimensionality Reduction
 - Generative Models (GANs, VAE, Diffusion)
 - Sim to Real  
