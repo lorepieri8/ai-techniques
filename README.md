@@ -155,7 +155,7 @@ Contributions to the list are welcome.
 ---
 
 ### Random Forest (Supervised Learning)
-*Superpower*: Classification and regression with little data preparation. 
+*Superpower*: Classification and regression with little data preparation for tabular data.
 
 *How hard*: Easy.
 
@@ -180,7 +180,7 @@ Contributions to the list are welcome.
 
 *Weak Points*: Less explainable than decision trees, not suited for high-dim data (e.g. images). 
 
-*Other*: Less overfitting than decision trees, more scalable. Alternative ensembling strategy to random forests. Consistently at the top of machine learning competitions.
+*Other*: Less bias and variance than decision trees, more scalable. Alternative ensembling strategy to random forests, using Gradient Boosting instead of Bagging. Consistently at the top of machine learning competitions.
 
 
 ---
