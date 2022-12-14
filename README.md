@@ -43,10 +43,11 @@ Contributions to the list are welcome.
 - [Semantic, Instance and Panoptic Segmentation (Supervised Learning, Deep Learning)](#semantic-instance-and-panoptic-segmentation-supervised-learning-deep-learning)
 - [Transfer Learning (Deep Learning)](#transfer-learning-deep-learning)
 - [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
+- [Ensemble methods](#ensemble-methods)
 - [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
+- [XGBooost](#xgbooost)
 - [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
 - [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
-- [Ensemble methods](#ensemble-methods)
 - [Data Augmentation](#data-augmentation)
 - [Bayesian Inference and Probabilistic Programming](#bayesian-inference-and-probabilistic-programming)
 - [Distribution Fitting](#distribution-fitting)
@@ -135,6 +136,22 @@ Contributions to the list are welcome.
 
 *Other*: Great explainability (can be mapped to yes/no questions), great for tabular data.
 
+
+---
+
+### Ensemble methods  
+*Superpower*: Combine multiple models to reduce overfitting. 
+
+*How hard*: Easy.
+
+*Libraries*: [sklearn.ensemble](https://scikit-learn.org/stable/modules/ensemble.html)
+ 
+*Example*: [Single estimator versus bagging: bias-variance decomposition](https://scikit-learn.org/stable/auto_examples/ensemble/plot_bias_variance.html#sphx-glr-auto-examples-ensemble-plot-bias-variance-py) 
+
+*Weak Points*: Algorithm complexity and interpretability are sacrificed for better accuracy, but the improvements are usually not that large.
+
+*Other*: Used to squeeze few additional accuracy points and win machine learning competition, e.g. on Kaggle. Important examples are Random Forests and Gradient XGBoost.
+
 ---
 
 ### Random Forest (Supervised Learning)
@@ -148,7 +165,23 @@ Contributions to the list are welcome.
 
 *Weak Points*: Less explainable than decision trees, not suited for high-dim data (e.g. images). 
 
-*Other*: Less overfit than decision trees, great for tabular data.
+*Other*: Less overfit than decision trees, great for tabular data. 
+
+---
+
+### XGBooost 
+*Superpower*: Classification and regression with little data preparation for tabular data. 
+
+*How hard*: Easy.
+
+*Libraries*: [XGBoost](https://xgboost.readthedocs.io/en/stable/tutorials/model.html) or using Sklearn.
+
+*Example*: [XGBoost in Python](https://www.datacamp.com/tutorial/xgboost-in-python) 
+
+*Weak Points*: Less explainable than decision trees, not suited for high-dim data (e.g. images). 
+
+*Other*: Less overfitting than decision trees, more scalable. Consistently at the top of machine learning competitions.
+
 
 ---
 
@@ -180,21 +213,6 @@ Contributions to the list are welcome.
 *Weak Points*: Not as good as deep learning for complex problems.
 
 *Other*: Many flavours of clustering are available. 
-
----
-
-### Ensemble methods  
-*Superpower*: Combine multiple models to reduce overfitting. 
-
-*How hard*: Easy.
-
-*Libraries*: [sklearn.ensemble](https://scikit-learn.org/stable/modules/ensemble.html)
- 
-*Example*: [Single estimator versus bagging: bias-variance decomposition](https://scikit-learn.org/stable/auto_examples/ensemble/plot_bias_variance.html#sphx-glr-auto-examples-ensemble-plot-bias-variance-py) 
-
-*Weak Points*: Algorithm complexity and interpretability are sacrificed for better accuracy, but the improvements are usually not that large.
-
-*Other*: Used to squeeze few additional accuracy points and win machine learning competition, e.g. on Kaggle. 
 
 ---
 
