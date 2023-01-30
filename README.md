@@ -1,5 +1,5 @@
 
-<p align="center"> <b> AI Tools for the Modern Problem Solver
+<p align="center"> <b> AI Techniques for the Modern Problem Solver
 </b> 
 
 
@@ -12,7 +12,7 @@ A curated list of AI tools and techniques to solve problems. No background knowl
  
 Here AI is an umbrella term for anything that has to do with learning and/or data, including techniques from Statistics, Data Science, Machine Learning, Artificial General Intelligence and related fields.
  
-The goal is to let you know that these tools exist, giving a basic usage example, resources and weaknesses.
+The goal is to let you know that these techniques exist, giving a basic usage example, resources and weaknesses.
 
 Contributions to the list are welcome.
 
