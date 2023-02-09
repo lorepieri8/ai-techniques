@@ -382,7 +382,7 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Dimensionality Reduction
 - Generative Models (GANs, VAE, Diffusion)
 - Sim to Real  
-- LSTMs, RNNs, Transformers
+- Sequence Models (LSTMs, RNNs, Transformers)
 - Multi agents simulations
 - Knowledge Representations
 - Knowledge Distillation
