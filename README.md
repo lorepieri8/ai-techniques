@@ -53,6 +53,7 @@ Contributions to the list are welcome.
 - [Distribution Fitting](#distribution-fitting)
 - [Anomaly Detection](#anomaly-detection)
 - [Graphs](#graphs)
+- [Graph Neural Networks](#graph-neural-networks)
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Genetic Algorithms](#genetic-algorithms)
@@ -282,13 +283,28 @@ Contributions to the list are welcome.
 
 *How hard*: Easy if not using deep-learning, medium otherwise. 
 
-*Libraries*: [NetworkX](https://networkx.org/), [Pytorch Geometric](https://github.com/pyg-team/pytorch_geometric) 
+*Libraries*: [NetworkX](https://networkx.org/)
  
 *Example*: [NetworkX Basic Tutorial](https://networkx.org/documentation/latest/tutorial.html) 
 
 *Weak Points*: Modelling the system with a graph may require unrealistic simplifications.
 
 *Other*: Graphs have been widely studied in mathematics and computer science, many optimized algorithms exists. 
+
+---
+
+### Graph Neural Networks
+*Superpower*: Use deep learning on graph-like data natively, without loss of information. 
+
+*How hard*: Hard, due to the relative novelty of the field.
+
+*Libraries*: [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/index.html) 
+ 
+*Example*: [Hands-on Graph Neural Networks with Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html) 
+
+*Weak Points*: Some graph structures cannot be distinguished by GNNs even in principle.
+
+*Other*: GNNs are a special case of Geometric Deep Learning, that is deep learning on non-euclidean data (graphs, manifolds).
 
 ---
 
