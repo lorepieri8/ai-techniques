@@ -8,7 +8,7 @@
 </p>
 
 
-A curated list of AI tools and techniques to solve problems. No background knowledge assumed.
+A curated list of AI tools and techniques to solve problems. No background knowledge assumed, ideal for newcomers to the field.
  
 Here AI is an umbrella term for anything that has to do with learning and/or data, including techniques from Statistics, Data Science, Machine Learning, Artificial General Intelligence and related fields.
  
@@ -83,7 +83,7 @@ Contributions to the list are welcome.
 
 *How hard*: Same as Neural Network Classifier.   
 
-*Libraries*: Detectron2, yolov5.
+*Libraries*: Detectron2, yolov8.
 
 *Example*: [Object Detection with Detectron2](https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch/) 
 
