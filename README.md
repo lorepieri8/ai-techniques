@@ -388,6 +388,7 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Knowledge Distillation
 - Domain adaptation
 - Reinforcement Learning from Human Feedback (RLHF)
+- Online Learning 
 
 
 -----------
