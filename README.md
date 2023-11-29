@@ -38,16 +38,16 @@ Contributions to the list are welcome.
 -------------
 **Table of Contents**
 
-- [Neural Network Classifier (Supervised Learning, Deep Learning)](#neural-network-classifier-supervised-learning-deep-learning)
-- [Neural Network Object Detector (Supervised Learning, Deep Learning)](#neural-network-object-detector-supervised-learning-deep-learning)
-- [Semantic, Instance and Panoptic Segmentation (Supervised Learning, Deep Learning)](#semantic-instance-and-panoptic-segmentation-supervised-learning-deep-learning)
-- [Transfer Learning (Deep Learning)](#transfer-learning-deep-learning)
-- [Decision Trees (Supervised Learning)](#decision-trees-supervised-learning)
+- [Neural Network Classifier (Supervised Learning, Deep Learning)](#neural-network-classifier--supervised-learning--deep-learning-)
+- [Neural Network Object Detector (Supervised Learning, Deep Learning)](#neural-network-object-detector--supervised-learning--deep-learning-)
+- [Semantic, Instance and Panoptic Segmentation (Supervised Learning, Deep Learning)](#semantic--instance-and-panoptic-segmentation--supervised-learning--deep-learning-)
+- [Transfer Learning (Deep Learning)](#transfer-learning--deep-learning-)
+- [Decision Trees (Supervised Learning)](#decision-trees--supervised-learning-)
 - [Ensemble methods](#ensemble-methods)
-- [Random Forest (Supervised Learning)](#random-forest-supervised-learning)
-- [XGBoost (Supervised Learning)](#xgboost-supervised-learning)
-- [AutoML (Supervised or Unsupervised Learning)](#automl-supervised-or-unsupervised-learning)
-- [Clustering (Unsupervised Learning)](#clustering-unsupervised-learning)
+- [Random Forest (Supervised Learning)](#random-forest--supervised-learning-)
+- [XGBoost (Supervised Learning)](#xgboost--supervised-learning-)
+- [AutoML (Supervised or Unsupervised Learning)](#automl--supervised-or-unsupervised-learning-)
+- [Clustering (Unsupervised Learning)](#clustering--unsupervised-learning-)
 - [Data Augmentation](#data-augmentation)
 - [Bayesian Inference and Probabilistic Programming](#bayesian-inference-and-probabilistic-programming)
 - [Distribution Fitting](#distribution-fitting)
@@ -57,7 +57,8 @@ Contributions to the list are welcome.
 - [Null-Hypothesis Significance Testing](#null-hypothesis-significance-testing)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Genetic Algorithms](#genetic-algorithms)
-- [Time Series Forecasting (Classic)](#time-series-forecasting-classic)
+- [Time Series Forecasting (Classic)](#time-series-forecasting--classic-)
+- [Online Learning (a.k.a. Incremental Learning)](#online-learning--aka-incremental-learning-)
 - [Extra](#extra)
 
 -------------
