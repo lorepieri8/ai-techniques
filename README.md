@@ -367,6 +367,20 @@ Contributions to the list are welcome.
 
 *Other*: Favoured over neural network based models when explainability is important. ARIMA is the most popular class of forecast models.    
 
+---
+
+### Online Learning (a.k.a. Incremental Learning)
+*Superpower*: Learn from a stream of data, without the need for retraining the whole model.
+
+*How hard*: Medium.
+
+*Libraries*: [River](https://github.com/online-ml/river).
+ 
+*Example*: [From batch to online learning](https://riverml.xyz/latest/examples/batch-to-online/) 
+
+*Weak Points*: Often batch training is just fine and more pragmatic. Online is less accurate than batch learning if the data has no concept drift.
+
+*Other*: Great to incorporate data from recent events into your model, for instance for LLMs. But it is still hard to do it well with neural networks.
 
 -----------
 
@@ -388,7 +402,6 @@ Other relevant tools or techniques include (may be included in the above in the 
 - Knowledge Distillation
 - Domain adaptation
 - Reinforcement Learning from Human Feedback (RLHF)
-- Online Learning 
 
 
 -----------
