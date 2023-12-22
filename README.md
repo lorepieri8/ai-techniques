@@ -59,6 +59,7 @@ Contributions to the list are welcome.
 - [Genetic Algorithms](#genetic-algorithms)
 - [Time Series Forecasting (Classic)](#time-series-forecasting--classic-)
 - [Online Learning (a.k.a. Incremental Learning)](#online-learning--aka-incremental-learning-)
+- [Monte Carlo Tree Search](#monte-carlo-tree-search)
 - [Extra](#extra)
 
 -------------
@@ -383,6 +384,21 @@ Contributions to the list are welcome.
 
 *Other*: Great to incorporate data from recent events into your model, for instance for LLMs. But it is still hard to do it well with neural networks.
 
+---
+
+### Monte Carlo Tree Search
+*Superpower*: Search the best option by simulating outcomes, without requiring heuristics.
+
+*How hard*: Hard.
+
+*Libraries*: [LightZero](https://github.com/opendilab/LightZero/tree/main).
+ 
+*Example*: [MuZero agent to play CartPole](https://github.com/opendilab/LightZero/tree/main?tab=readme-ov-file#quick-start) 
+
+*Weak Points*: Compute intensive. May miss pivotal moves leading to suboptimal strategies. Pretty complex to setup, usually paired with neural networks to perform predictions, RL to improve from self-play.
+
+*Other*: Used to solve many two-players games, such as Chess and Go. 
+
 -----------
 
 ### Extra
@@ -391,8 +407,8 @@ Other relevant tools or techniques include (may be included in the above in the 
 
 - Kalman Filters
 - Monte Carlo Estimations
-- Neural-Net-Guided Monte Carlo Tree Search
-- Support Vector Machines 
+- Support Vector Machines
+- Alpha-Beta Pruning  
 - Logistic Regression
 - Dimensionality Reduction
 - Generative Models (GANs, VAE, Diffusion)
