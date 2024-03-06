@@ -10,7 +10,7 @@
 
 A curated list of AI tools and techniques to solve problems. No background knowledge assumed, ideal for newcomers to the field.
  
-Here AI is an umbrella term for anything that has to do with learning and/or data, including techniques from Statistics, Data Science, Machine Learning, Artificial General Intelligence and related fields.
+Here AI is an umbrella term for the ability to adaptively and efficiently achieve goals via artificial learning, planning and decision making, including techniques from Statistics, Data Science, Machine Learning, Artificial General Intelligence and related fields.
  
 The goal is to let you know that these techniques exist, giving a basic usage example, resources and weaknesses.
 
