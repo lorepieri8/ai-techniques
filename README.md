@@ -60,6 +60,7 @@ Contributions to the list are welcome.
 - [Time Series Forecasting (Classic)](#time-series-forecasting--classic-)
 - [Online Learning (a.k.a. Incremental Learning)](#online-learning--aka-incremental-learning-)
 - [Monte Carlo Tree Search](#monte-carlo-tree-search)
+- [Causal Inference](#causal-inference)
 - [Extra](#extra)
 
 -------------
@@ -398,6 +399,21 @@ Contributions to the list are welcome.
 *Weak Points*: Compute intensive. May miss pivotal moves leading to suboptimal strategies. Pretty complex to setup, usually paired with neural networks to perform predictions, RL to improve from self-play.
 
 *Other*: Used to solve many two-players games, such as Chess and Go. 
+
+---
+
+### Causal Inference
+*Superpower*: Go beyond statistical correlations and unveil causation. Allow for root cause analysis, interventions and counterfactuals (what if scenarios).
+
+*How hard*: Hard.
+
+*Libraries*: [DoWhy](https://www.pywhy.org/dowhy).
+ 
+*Example*: [Tutorial on Causal Inference and its Connections to Machine Learning (Using DoWhy+EconML)](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/tutorial-causalinference-machinelearning-using-dowhy-econml.html) 
+
+*Weak Points*: Causal inference is still immature as a practical framework, it is hard to gather causal datasets and to learn causal relations from data.
+
+*Other*: Likely to play a pivotal role in AI reasoning and AGI architectures. 
 
 -----------
 
