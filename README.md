@@ -407,7 +407,7 @@ Contributions to the list are welcome.
 
 *How hard*: Hard.
 
-*Libraries*: [DoWhy](https://www.pywhy.org/dowhy), [CausalML](https://github.com/uber/causalml).
+*Libraries*: [DoWhy](https://www.pywhy.org/dowhy), [CausalML](https://github.com/uber/causalml), [pgmpy](https://pgmpy.org/index.html).
  
 *Example*: [Tutorial on Causal Inference and its Connections to Machine Learning (Using DoWhy+EconML)](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/tutorial-causalinference-machinelearning-using-dowhy-econml.html) 
 
